@@ -73,7 +73,7 @@ export const ToDo = () => {
             className="clear-icon"
             onClick={handleClearButton}
           />
-          Clear All
+          Clear All (clear)
         </button>
       </section>
     </section>

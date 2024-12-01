@@ -1,0 +1,34 @@
+.on{
+    background-color: green;
+    color: white;
+    align-items: flex-end;
+}
+
+.off{
+    background-color: red;
+    color: white;
+    align-items: flex-start;
+}
+
+.switch{
+    /* background-color: aqua; */
+    padding: 0px 10px;
+    width: 100px;
+    border-radius: 50px;
+    display: flex;
+    flex-direction: column;
+    user-select: none;
+    transition: all 0.5s ease-in-out;
+}
+
+.switch-bubble{
+    transition: all 0.5s ease-in-out;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+}

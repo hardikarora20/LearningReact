@@ -1,0 +1,38 @@
+[
+    {
+      "key": "1a2b3c4d",
+      "name": "Queen's Gambit",
+      "rating": 9.1,
+      "summ": "Set during the Cold War era, orphaned chess prodigy Beth Harmon struggles with addiction in a quest to become the greatest chess player in the world.",
+      "img_url": "https://m.media-amazon.com/images/M/MV5BMmRlNjQxNWQtMjk1OS00N2QxLTk0YWQtMzRhYjY5YTFhNjMxXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg"
+    },
+    {
+      "key": "2d3e4f5g",
+      "name": "Stranger Things",
+      "rating": 8.7,
+      "summ": "A group of kids in a small town uncover dark secrets and face off against mysterious forces from another dimension.",
+      "img_url": "https://m.media-amazon.com/images/M/MV5BMjE2N2MyMzEtNmU5NS00OTI0LTlkNTMtMWM1YWYyNmU4NmY0XkEyXkFqcGc@._V1_QL75_UY148_CR9,0,100,148_.jpg"
+    },
+    {
+      "key": "3h4i5j6k",
+      "name": "The Witcher",
+      "rating": 8.0,
+      "summ": "Geralt of Rivia, a monster hunter, struggles to find his place in a world filled with dangerous beasts, warring kingdoms, and complex political intrigues.",
+      "img_url": "https://m.media-amazon.com/images/M/MV5BMTQ5MDU5MTktMDZkMy00NDU1LWIxM2UtODg5OGFiNmRhNDBjXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg"
+    },
+    {
+      "key": "4l5m6n7o",
+      "name": "Money Heist",
+      "rating": 8.3,
+      "summ": "A criminal mastermind known as 'The Professor' recruits a group of thieves to carry out an ambitious plan to rob the Royal Mint of Spain.",
+      "img_url": "https://m.media-amazon.com/images/M/MV5BZjkxZWJiNTUtYjQwYS00MTBlLTgwODQtM2FkNWMyMjMwOGZiXkEyXkFqcGc@._V1_QL75_UX100_CR0,2,100,148_.jpg"
+    },
+    {
+      "key": "5p6q7r8s",
+      "name": "Bridgerton",
+      "rating": 8.0,
+      "summ": "Set in Regency-era London, the Bridgerton family navigates love, scandal, and social challenges while uncovering secrets and rivalries in high society.",
+      "img_url": "https://m.media-amazon.com/images/M/MV5BZmRjNDNlMDMtNDZlMS00NzE4LTk0OGMtYjQyMWY3YWFmY2I5XkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg"
+    }
+  ]
+  

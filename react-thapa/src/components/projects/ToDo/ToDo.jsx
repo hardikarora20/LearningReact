@@ -68,11 +68,8 @@ export const ToDo = () => {
             );
           })}
         </ul>
-        <button className="clear-all-btn">
-          <IoTrashBinOutline
-            className="clear-icon"
-            onClick={handleClearButton}
-          />
+        <button className="clear-all-btn" onClick={handleClearButton}>
+          <IoTrashBinOutline className="clear-icon" />
           Clear All
         </button>
       </section>
